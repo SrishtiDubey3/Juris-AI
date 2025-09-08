@@ -10,4 +10,6 @@ An AI-powered legal research and assistance platform that simplifies case law se
 📂 Structured Outputs – JSON-formatted case metadata with citations, parties, and key points.  
 🌐 Conversational Interface – Chat-like UI for smooth legal research.
 
+
+
 Soon...
